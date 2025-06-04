@@ -8,6 +8,11 @@ It's an AI-Powered rooftop analysis tool
 This project — Solar Industry AI Assistant — is a web-based AI tool that analyzes satellite images of rooftops to assess their solar panel installation potential.
 It identify the usable rooftop area. detect obstraction like tree, water tank,estimate solar enegry generation potential and rate the installation suitability
 ```
+### used stremlit and requests
+```
+stremlit- to run the web app interface
+requests- for making API call
+```
 
 ### input to be  used are
 ```
